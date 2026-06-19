@@ -1,8 +1,7 @@
 # Syllabus
 
-**[Instructor Note: The syllabus page shows a table-oriented Course Summary. This table will auto-generate, based off of gradable content in the course. Learn More: [Canvas Resources for Instructors - Course Syllabus](https://design.instructure.com/courses/221/assignments/syllabus) . This template was based off of the NAU Syllabus Template, navigate [here to view NAU Syllabus Policies and requirement](https://nau.edu/university-policy-library/syllabus-requirements/)]**
 
-**Insert College Logo****Department/Academic Unit****Course Prefix, Section Number, and Title1****Term/Year****Total Units of Course Credit2****Course Pre-Requisite(s) 2, Co-Requisite(s) 2, Co-Convened2, and/or Cross-Listed2 Courses****Mode of Instruction** *Identifies whether the class is face-to-face, online, blended, etc.*
+Requisite(s) 2, Co-Convened2, and/or Cross-Listed2 Courses****Mode of Instruction** *Identifies whether the class is face-to-face, online, blended, etc.*
 
 ---
 
