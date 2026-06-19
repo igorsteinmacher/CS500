@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Canvas source exports and temporary extraction
+*.imscc
+course-export*.zip
+canvas-export*.zip
+raw-export/
+extracted-export/
+tmp/
+temp/
+
+# Local reports that may contain sensitive filenames or metadata
+canvas-report/
+canvas-publication-report/
+metadata/PUBLICATION_REPORT.md
+metadata/publication-report.json
+metadata/report.json
+
+# Logs
+*.log

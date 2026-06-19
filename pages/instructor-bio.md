@@ -1,0 +1,6 @@
+# Instructor Bio
+
+
+|  |  |
+| --- | --- |
+| https://www.igor.pro.br/images/images/steinmacherigor.jpg | **Igor Steinmacher** completed a Ph.D. in Computer Science at the [Institute of Mathematics and Statistics](http://www.ime.usp.br/ "IME/USP") at the[University of São Paulo](http://www.usp.br/ "University of São Paulo") in 2015. He is an Associate Professor in the[School of Informatics, Computing, and Cyber Systems](https://nau.edu/school-of-informatics-computing-and-cyber-systems/) at Northern Arizona University since 2018 (with a break from 2020 to 2022). Previously, he was a visiting scholar at the [University of California, Irvine](http://www.ics.uci.edu/) from July 2013 to January 2014  His research lies in the intersections of **Software Engineering (SE)** and **Computer Supported Cooperative Work (CSCW)**. Currently, he works on the support of newcomers to Open Source Software development communities and gender bias in Open Source Software. I am interested in Open Source Software, Human Aspects of Software Engineering, Empirical Software Engineering, and Mining Software Repositories techniques.  More here: **www.igor.pro.br**    **Email:** igor.steinmacher@nau.edu  Office hours is **TueThu 08:30-09:30** My office is located at SICCS (builiding #90) room 205 |
